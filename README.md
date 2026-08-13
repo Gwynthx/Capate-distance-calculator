@@ -11,9 +11,9 @@ Look for:
 -The x coordinate of Cebu
 -The y coordinate of Cebu
 
+## Step 1: enter coordinates of Manila
 
-
-## Step 1
+## Step 2: enter coordinates of Cebu
 
 ##Input Needed
 
